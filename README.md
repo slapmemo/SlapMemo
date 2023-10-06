@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Mehmet and I'm a Student from Turkey</h2>
 
-- 🔭 I’m currently student on **Sabahattin Zaim University**
+- 🔭 I’m currently student on **Istanbul Zaim University**
 
 - 🌱 I’m currently learning **C, Python and PHP**
 
