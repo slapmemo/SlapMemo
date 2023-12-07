@@ -2,8 +2,10 @@
 
 - 🔭 I’m currently student on **Istanbul Zaim University**
 
-- 🌱 I’m currently learning **C, Python and PHP**
+- 🌱 I’m currently learning **C & Python**
 
+- **Python for:** 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+- **C for:** C Programming Bootcamp - The Complete C Language Course 
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/wO-oCQAq6psAAAAC/zoro.gif"  />
