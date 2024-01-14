@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C, Python, HTML & CSS **
 
-- **Python for:** 100 Days of Code: The Complete Python Pro Bootcamp for 2023 at Udemy
+- **Python for:** At University & 100 Days of Code: The Complete Python Pro Bootcamp for 2023 at Udemy
 - **C for:** At University & C Programming Bootcamp - The Complete C Language Course at Udemy
 - **HTML & CSS for:** Web Design Course Coding Education at Yildiz Technical University & The Complete 2023 Web Development Bootcamp at Udemy
 ###
